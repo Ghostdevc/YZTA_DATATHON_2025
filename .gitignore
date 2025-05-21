@@ -161,3 +161,8 @@ cython_debug/
 yzta_datathon_2025_eda/__init__.py
 yzta_datathon_2025_eda/utils.py
 *.csv
+*.json
+*.tfevents
+*.tsv
+*.pkl
+scratch.ipynb
